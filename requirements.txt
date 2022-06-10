@@ -3,7 +3,6 @@
 # ----------------------
 gevent
 #required
-sqlite3
 chatterbot==1.0.4
 Flask==2.1.1
 flask-recaptcha
