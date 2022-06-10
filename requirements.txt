@@ -8,3 +8,4 @@ Flask==2.1.1
 flask-recaptcha
 gunicorn==20.1.0
 pytz
+spacy
