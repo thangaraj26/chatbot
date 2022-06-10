@@ -1,0 +1,10 @@
+# ----------------------
+# Production Server
+# ----------------------
+gevent
+#required
+sqlite3
+chatterbot
+Flask==2.1.1
+flask-recaptcha
+gunicorn==20.1.0
