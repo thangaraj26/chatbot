@@ -7,7 +7,7 @@ chatterbot==1.0.4
 flask-recaptcha
 pytz
 spacy
-./en_core_web_sm-2.2.0.tar.gz
+./en_core_web_sm-3.3.0.tar.gz
 #required
 click==8.1.2
 Flask==2.1.1
