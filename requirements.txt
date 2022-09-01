@@ -6,7 +6,6 @@ gevent
 chatterbot==1.0.4
 flask-recaptcha
 pytz
-spacy
 ./en_core_web_sm-3.3.0.tar.gz
 #required
 click==8.1.2
